@@ -5,8 +5,10 @@ class Solution(object):
             if i.isalnum():
                 new+=i
         new=new.lower()
-        if new[:]==new[::-1]:
-            return True
-        return False
+        if new[:]!=new[::-1]:
+            return False
+        return True
+        
+        
         
         
