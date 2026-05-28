@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0733-flood-fill](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 ## Linked List
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 ## Interactive
 |  |
 | ------- |
