@@ -17,10 +17,10 @@ class Solution(object):
             return 0
         res=int(res)
 
-        if res < -2147483648:
+        if res < - (pow(2,31)):
             return -2147483648
 
-        if res > 2147483647:
+        if res > pow(2,31) -1:
             return 2147483647
 
 
