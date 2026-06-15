@@ -1,27 +1,30 @@
 class Solution(object):
     def myAtoi(self, s):
         s = s.strip()
-        res = ""
 
-        for i in range(len(s)):
-            if i == 0 and (s[i] == '-' or s[i]=='+'):
-                res += s[i]
-                continue
-
-            if s[i].isdigit():
-                res += s[i]
-            else:
-                break
-
-        if res == "" or res == "-" or res=="+":
+        if not s:
             return 0
-        res=int(res)
 
-        if res < - (pow(2,31)):
-            return -2147483648
+        sign = 1
+        i = 0
 
-        if res > pow(2,31) -1:
-            return 2147483647
+        if s[0] == '-':
+            sign = -1
+            i += 1
+        elif s[0] == '+':
+            i += 1
 
+        num = 0
 
-        return int(res)
+        while i < len(s) and s[i].isdigit():
+            num = num * 10 + int(s[i])
+
+            if sign * num > 2147483647:
+                return 2147483647
+
+            if sign * num < -2147483648:
+                return -2147483648
+
+            i += 1
+
+        return sign * num
