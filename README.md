@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0212-word-search-ii](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 ## Data Stream
 |  |
