@@ -1,21 +1,25 @@
 class Solution(object):
     def moveZeroes(self, nums):
-        if not nums:
-            return NULL
-        if len(nums)==1:
+        l=0
+        r=1
+        if (len(nums)>1):
+            while(r<len(nums)):
+                if (nums[l]==0 and nums[r]!=0):
+                    temp=nums[l]
+                    nums[l]=nums[r]
+                    nums[r]=temp
+                    l+=1
+                    r+=1
+                elif nums[l]==0 and nums[r]==0:
+                    r+=1
+                else:
+                    l+=1
+                    r+=1
             return nums
-        i,j=0,1
-        while(j<len(nums)):
-            if nums[i]==0 and nums[j]!=0:
-                nums[i],nums[j]=nums[j],nums[i]
-                i+=1
-                j+=1
-            elif nums[i]==0 and nums[j]==0:
-                j+=1
-            else:
-                i+=1
-                j+=1
-        return nums
+        else:
+            return nums
 
 
+
+        
         
