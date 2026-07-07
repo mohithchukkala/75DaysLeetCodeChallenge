@@ -1,23 +1,15 @@
 class Solution(object):
     def totalFruit(self, fruits):
-        left=0
-        t1=fruits[left]
-        t2=float('inf')
-        ans=0
-        for right in range(1,len(fruits)):
-            if fruits[right]==t1 or fruits[right]==t2:
-                pass
-            elif t2==float('inf'):
-                t2=fruits[right]
-            else:
-                prev=fruits[right-1]
-                left=right-1
-                while prev==fruits[left]:
-                    left-=1
-                left+=1
-                t1=fruits[left]
-                t2=fruits[right]
+        l,ans=0,0
+        freq={}
+        for i in range(len(fruits)):
+            freq[fruits[i]]=freq.get(fruits[i],0)+1
 
-            ans=max(right-left+1,ans)
-        return 1 if len(fruits)==1 else ans
-        
+            while len(freq)>2:
+                freq[fruits[l]]-=1
+                if freq[fruits[l]]==0:
+                    del freq[fruits[l]]
+                l+=1
+
+            ans=max(ans,i-l+1)
+        return ans
