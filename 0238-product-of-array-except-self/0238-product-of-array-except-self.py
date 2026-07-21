@@ -1,15 +1,14 @@
 class Solution(object):
     def productExceptSelf(self, nums):
-        prefix=1
+        prefix=[1]*len(nums)
+        suffix=[1]*len(nums)
+        for i in range(1,len(nums)):
+            prefix[i]=prefix[i-1]*nums[i-1]
+        for i in range(len(nums)-2,-1,-1):
+            suffix[i]=suffix[i+1]*nums[i+1]
+
         ans=[1]*len(nums)
-        prefix=1
         for i in range(len(nums)):
-            ans[i]=prefix
-            prefix*=nums[i]
-        suffix=1
-        for i in range(len(nums)-1,-1,-1):
-            ans[i]*=suffix
-            suffix*=nums[i]
+            ans[i]=prefix[i]*suffix[i]
         return ans
-        
         
