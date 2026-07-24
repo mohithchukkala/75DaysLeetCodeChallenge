@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
