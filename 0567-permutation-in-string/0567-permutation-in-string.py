@@ -1,32 +1,26 @@
 class Solution(object):
     def checkInclusion(self, s1, s2):
-        
-        if len(s1) > len(s2):
+        s1_freq={}
+        s2_freq={}
+        if len(s1)>len(s2):
             return False
-
-        count1 = [0] * 26
-        count2 = [0] * 26
-
-        # Frequency of s1 and first window of s2
         for i in range(len(s1)):
-            count1[ord(s1[i]) - ord('a')] += 1
-            count2[ord(s2[i]) - ord('a')] += 1
-
-        # Check first window
-        if count1 == count2:
+            s1_freq[s1[i]]=s1_freq.get(s1[i],0)+1
+        l=0
+        for i in range(len(s1)):
+            s2_freq[s2[i]]=s2_freq.get(s2[i],0)+1
+        if s2_freq==s1_freq:
             return True
+        l+=1
 
-        left = 0
-
-        # Sliding window
-        for right in range(len(s1), len(s2)):
-
-            count2[ord(s2[right]) - ord('a')] += 1
-            count2[ord(s2[left]) - ord('a')] -= 1
-
-            left += 1
-
-            if count1 == count2:
+        for i in range(len(s1),len(s2)):
+            s2_freq[s2[l-1]]-=1
+            if s2_freq[s2[l-1]]==0:
+                del s2_freq[s2[l-1]]
+            s2_freq[s2[i]]=s2_freq.get(s2[i],0)+1
+            if s2_freq==s1_freq:
                 return True
-
+            l+=1
         return False
+
+        
