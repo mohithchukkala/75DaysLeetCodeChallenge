@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Greedy
 |  |
 | ------- |
