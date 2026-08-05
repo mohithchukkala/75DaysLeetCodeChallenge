@@ -1,5 +1,7 @@
 class Solution(object):
     def minDays(self, bloomDay, m, k):
+        if len(bloomDay)<k*m:
+            return -1
         ans=-1
         def can(mid):
             b=0
