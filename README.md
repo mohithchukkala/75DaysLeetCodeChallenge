@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Design
@@ -464,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
