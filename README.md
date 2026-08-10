@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
+| [0227-basic-calculator-ii](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
+| [0227-basic-calculator-ii](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
+| [0227-basic-calculator-ii](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0227-basic-calculator-ii) |
 | [0509-fibonacci-number](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
 | [1922-count-good-numbers](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/1922-count-good-numbers) |
