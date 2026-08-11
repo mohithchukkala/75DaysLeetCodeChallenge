@@ -1,24 +1,20 @@
 class Solution(object):
     def decodeString(self, s):
-        stack = []
-        curr_num = 0
-        curr_str = ""
-
-        for ch in s:
-
-            if ch.isdigit():
-                curr_num = curr_num * 10 + int(ch)
-
-            elif ch == '[':
-                stack.append((curr_str, curr_num))
-                curr_str = ""
-                curr_num = 0
-
-            elif ch == ']':
-                prev_str, num = stack.pop()
-                curr_str = prev_str + curr_str * num
-
+        stack=[]
+        val=''
+        for i in s:
+            if i!=']':
+                stack.append(i)
             else:
-                curr_str += ch
-
-        return curr_str
+                new=''
+                while stack[-1]!='[':
+                    new=stack.pop()+new
+                stack.pop()
+                num=''
+                while stack and stack[-1].isdigit():
+                    num+=stack.pop()
+                num=int(num[::-1])
+                val=num*new
+                stack.append(val)
+        return ''.join(stack)
+        
