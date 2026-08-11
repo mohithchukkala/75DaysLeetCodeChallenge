@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Divide and Conquer
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Design
 |  |
@@ -473,4 +476,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
