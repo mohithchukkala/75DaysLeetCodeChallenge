@@ -10,7 +10,6 @@ class Solution(object):
                 stack.pop()
         ans=''
         while stack:
-            ans+=stack.pop()
-        ans=ans[::-1]
+            ans=stack.pop()+ans
         return ans
 
