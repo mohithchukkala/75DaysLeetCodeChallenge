@@ -1,18 +1,10 @@
 class Solution(object):
     def minAddToMakeValid(self, s):
-        o,c=0,0
+        stack=[]
         for i in s:
-            if i=='(':
-                o+=1
+            if stack and (stack[-1]=='(' and i==')'):
+                stack.pop()
             else:
-                if i==')' and o>0:
-                     o-=1
-                else:
-                    c+=1
-        if c>0 and o>0:
-            ans=c+o
-            return ans
-        else:
-            return max(o,c)
-            
+                stack.append(i)
+        return len(stack)
         
