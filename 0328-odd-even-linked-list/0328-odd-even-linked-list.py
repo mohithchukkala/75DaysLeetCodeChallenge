@@ -7,14 +7,16 @@ class Solution(object):
     def oddEvenList(self, head):
         if head is None or head.next is None:
             return head
-        curr=head
         temp=head.next
-        prev=temp
+        copy=temp
+        prev=head
+        
         while temp is not None and temp.next is not None:
-            curr.next=temp.next
-            curr=temp.next
-            temp.next=curr.next
-            temp=curr.next
-        curr.next=prev
+            prev.next=temp.next
+            prev=temp.next
+            temp.next=prev.next
+            temp=prev.next
+        prev.next=copy
+
         return head
         
