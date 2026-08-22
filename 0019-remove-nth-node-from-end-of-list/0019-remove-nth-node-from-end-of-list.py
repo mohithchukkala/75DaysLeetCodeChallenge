@@ -6,26 +6,20 @@
 class Solution(object):
     def removeNthFromEnd(self, head, n):
         temp=head
-        count=1
-        while temp.next is not None:
+        count=0
+        while temp is not None:
             temp=temp.next
             count+=1
-        if head is None:
-            return None
-        if count==1 and n==1:
-            return None
-        res=count-n
+        req=count-n
         temp=head
         prev=None
-        if n==count:
+        if req==0:
             return head.next
-        if res!=count:
-            while res!=0:
-                prev=temp
-                temp=temp.next
-                res-=1
-            prev.next=temp.next
-            return head
-        
-
+        while req!=0:
+            prev=temp
+            temp=temp.next
+            req-=1
+        prev.next=temp.next
+        del(temp)
+        return head
         
