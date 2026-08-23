@@ -8,12 +8,13 @@ class Solution(object):
     def hasCycle(self, head):
         if head is None or head.next is None:
             return False
-        curr=head
-        temp=head.next
-        while temp is not None and temp.next is not None:
-            temp=temp.next.next
-            curr=curr.next
-            if curr==temp:
+        slow=head
+        fast=head
+        while fast is not None and fast.next is not None:
+            slow=slow.next
+            fast=fast.next.next
+            if slow==fast:
                 return True
         return False
+        
         
