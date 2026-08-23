@@ -506,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
