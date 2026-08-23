@@ -6,17 +6,22 @@
 
 class Solution(object):
     def detectCycle(self, head):
-        dict={}
         if head is None or head.next is None:
             return None
-        temp=head.next;
-        count=0
-        dict[head]=count
-        while temp not in dict:
-            dict[temp]=count+1
-            count=count+1
-            temp=temp.next
-            if temp is None:
-                return None
-        return temp
+        slow=head
+        fast=head
+        while fast is not None and fast.next is not None:
+            slow=slow.next
+            fast=fast.next.next
+            if slow==fast:
+                slow=head
+                while slow!=fast:
+                    slow=slow.next
+                    fast=fast.next
+                return slow
+        return None
+    
+
+        
+
         
