@@ -11,16 +11,17 @@ class Solution(object):
             slow=slow.next
             fast=fast.next.next
         prev=None
-        while slow!=None:
+        while slow is not None:
             nextnode=slow.next
             slow.next=prev
             prev=slow
             slow=nextnode
         tail=prev
         h=head
-        while tail!=None:
-            if tail.val!=h.val:
+        while tail is not None:
+            if h.val!=tail.val:
                 return False
             h=h.next
             tail=tail.next
         return True
+        
