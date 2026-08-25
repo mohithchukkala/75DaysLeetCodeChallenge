@@ -25,7 +25,7 @@ class Solution(object):
         tail=slow
         print(tail)
         prev.next=None
-        while slow.next is not None:
+        while slow is not None and slow.next is not None:
             slow=slow.next
         slow.next=head
         return tail
