@@ -23,7 +23,6 @@ class Solution(object):
             slow=slow.next
             req-=1
         tail=slow
-        print(tail)
         prev.next=None
         while slow is not None and slow.next is not None:
             slow=slow.next
