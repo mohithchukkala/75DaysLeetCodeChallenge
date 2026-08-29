@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
