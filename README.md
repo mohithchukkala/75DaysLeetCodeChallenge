@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/1544-make-the-string-great) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/2487-remove-nodes-from-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Design
 |  |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2487-remove-nodes-from-linked-list](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/2487-remove-nodes-from-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/1019-next-greater-node-in-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/1922-count-good-numbers) |
+| [2487-remove-nodes-from-linked-list](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
 |  |
 | ------- |
