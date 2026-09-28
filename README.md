@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0713-subarray-product-less-than-k) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0641-design-circular-deque) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Queue
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0641-design-circular-deque) |
 ## Math
 |  |
 | ------- |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0328-odd-even-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0622-design-circular-queue](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/1019-next-greater-node-in-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
