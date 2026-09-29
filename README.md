@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2073-time-needed-to-buy-tickets](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/2073-time-needed-to-buy-tickets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0641-design-circular-deque) |
+| [2073-time-needed-to-buy-tickets](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/2073-time-needed-to-buy-tickets) |
 ## Math
 |  |
 | ------- |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
+| [2073-time-needed-to-buy-tickets](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/2073-time-needed-to-buy-tickets) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Bracket Sequences
 |  |
