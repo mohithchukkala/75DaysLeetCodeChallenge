@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/2073-time-needed-to-buy-tickets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0641-design-circular-deque) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/2073-time-needed-to-buy-tickets) |
 ## Math
 |  |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0227-basic-calculator-ii) |
 | [0509-fibonacci-number](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/1922-count-good-numbers) |
 ## Monotonic Stack
 |  |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1922-count-good-numbers](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
@@ -540,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/2073-time-needed-to-buy-tickets) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Bracket Sequences
