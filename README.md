@@ -573,4 +573,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
