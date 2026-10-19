@@ -445,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mohithchukkala/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
