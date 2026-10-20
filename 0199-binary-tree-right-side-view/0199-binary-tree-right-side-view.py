@@ -1,26 +1,25 @@
-from collections import deque
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+class Solution:
+    def rightSideView(self, root: TreeNode | None) -> list[int]:
+        res=[]
+        if root==None:
+            return res
 
-class Solution(object):
-    def rightSideView(self, root):
-        if not root:
-            return []
-        
-        queue = deque([root])
-        result = []
-        
+        queue=deque([root])
         while queue:
-            level_size = len(queue)
-            
-            for i in range(level_size):
-                node = queue.popleft()
-                
-                # last node of this level
-                if i == level_size - 1:
-                    result.append(node.val)
-                
+            popi=queue.pop()
+            res.append(popi.val)
+            queue.append(popi)
+            for i in range(len(queue)):
+                node=queue.popleft()
                 if node.left:
                     queue.append(node.left)
                 if node.right:
                     queue.append(node.right)
-        
-        return result
+        return res
+            
